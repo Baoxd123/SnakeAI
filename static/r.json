@@ -1,0 +1,7 @@
+{
+    "images": [
+        { "name": "body", "src": "./img/body1.png" },
+        { "name": "food", "src": "./img/food.png" },
+        { "name": "head", "src": "./img/head1.png" }
+    ]
+}
